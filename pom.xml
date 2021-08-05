@@ -16,5 +16,6 @@
         <module>passjava-study</module>
         <module>passjava-channel</module>
         <module>renren-fast-master</module>
+        <module>renren-generator</module>
     </modules>
 </project>
