@@ -17,5 +17,6 @@
         <module>passjava-channel</module>
         <module>renren-fast-master</module>
         <module>renren-generator</module>
+        <module>passjava-common</module>
     </modules>
 </project>
